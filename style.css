@@ -1,0 +1,9 @@
+body {
+    background-image: url(../Weather\ GLUG\ Project/grey.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+*{
+    flood-color: aliceblue;
+}
